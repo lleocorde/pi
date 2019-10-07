@@ -1,2 +1,0 @@
-# pi
-Raspberry Pi
